@@ -42,3 +42,16 @@ li.not-logo:hover {
     background-color: #111111;
     float: right;
 }
+
+.buttons button {
+    cursor: pointer;
+    padding: 10px;
+    background-color: #209800;
+    border-radius: 8px;
+    border-color: black;
+    font-family: 'Roboto Mono', sans-serif;
+    width: 28%;
+    height: auto;
+    color: black;
+    font-size: 150%;
+}
