@@ -55,3 +55,17 @@ li.not-logo:hover {
     color: black;
     font-size: 150%;
 }
+
+.buttons button:hover {
+    transition-duration: 300ms;
+    cursor: pointer;
+    padding: 10px;
+    background-color: #222222;
+    border-radius: 8px;
+    border-color: #209800;
+    font-family: 'Roboto Mono', sans-serif;
+    width: 28%;
+    height: auto;
+    color: white;
+    font-size: 150%;
+}
