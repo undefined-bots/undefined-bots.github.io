@@ -22,7 +22,7 @@ ul {
 
 li {
     font-size: 110%;
-    padding-right: 10px;
+    margin: 5px;
 }
 
 li a {
@@ -31,4 +31,14 @@ li a {
     text-align: center;
     padding: 16px;
     text-decoration: none;
+}
+
+li.not-logo {
+    float:right
+}
+
+li.not-logo:hover {
+    transition-duration: 400ms;
+    background-color: #111111;
+    float: right;
 }
